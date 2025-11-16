@@ -1,19 +1,15 @@
 # 👋 Hi, I'm Mohanarangan!
-
-
-
 ⭐ UG Student and an AI-ML Engineer Sharing my journey and the path beyond.<br>💡 Finished my Higher education and currently studying at Chennai Institute of Technology, Tamil Nadu, India.<br>🧠 Building and analyzing ML models to find the Best of them all.<br>🗺️ Deepdiving through DSA to become technically stronger.<br>👨‍💻 A competitive programmer and dreamer.<br>📚 Currently learning Deep Learning and Agentic AI.
 
 
 
-## 🌐 Socials:
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohanarangan-t-r-0511a1329) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohanarangantr.aiml2024@citchennai.net) 
 
 
 
-# 💻 Tech Stack:
-
+## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
@@ -45,9 +41,16 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohan27042007&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mohan27042007&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohan27042007&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
 
+
+![](https://github-readme-stats.vercel.app/api?username=mohan27042007&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false)
+<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=mohan27042007&theme=midnight-purple&hide_border=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohan27042007&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+
+
+Support me throughout this journey :) !!
 

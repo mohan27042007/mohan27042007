@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Mohan!
 
-<!--
-**mohan27042007/mohan27042007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⭐ UG Student and an AI-ML Engineer Sharing my journey and the path beyond.<br/>
 
-Here are some ideas to get you started:
+💡 Finished my Higher education and currently studying at Chennai Institute of Technology, Tamil Nadu, India.<br/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Building and analyzing ML models to find the **Best** of them all.<br/>
+
+🗺️ Deepdiving through DSA to become technically stronger.<br/>
+
+👨‍💻 A competitive programmer and dreamer.<br/>
+
+📚 Currently learning Deep Learning and Agentic AI.<br/>
+
+
+
+![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohan27042007&show_icons=true&theme=radical)
